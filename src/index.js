@@ -394,7 +394,7 @@ export function generarEmail(opciones = {}) {
  * @param {Object} opciones - Opciones de generación
  * @returns {Object} Datos de empresa
  */
-export function generarEmpresa(opciones = {}) {
+export function generarEmpresa(opciones = {}) { // eslint-disable-line no-unused-vars
   const prefijo = randomBool() ? randomItem(EMPRESAS_PREFIJOS) : '';
   const nombreBase = randomItem(APELLIDOS);
   const sufijo = randomItem(EMPRESAS_SUFIJOS);
