@@ -1,6 +1,6 @@
 {
   "name": "generador-datos-mx",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "description": "Generador de datos de prueba mexicanos realistas para testing y desarrollo",
   "main": "dist/index.js",
