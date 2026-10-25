@@ -2,12 +2,9 @@
 
 Librería moderna para generar datos de prueba mexicanos realistas — ideal para testing, desarrollo y demostración de aplicaciones. Genera nombres, RFCs, CURPs, direcciones, teléfonos, CLABEs y más.
 
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/gerardolucero)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/lucerorios0)
-[![GitHub Stars](https://img.shields.io/github/stars/GerardoLucero/generador-datos-mx?style=social)](https://github.com/GerardoLucero/generador-datos-mx)
 [![npm version](https://badge.fury.io/js/generador-datos-mx.svg)](https://badge.fury.io/js/generador-datos-mx)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Node.js CI](https://github.com/GerardoLucero/generador-datos-mx/workflows/CI%2FCD%20Pipeline/badge.svg)](https://github.com/GerardoLucero/generador-datos-mx/actions)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![CI](https://github.com/GerardoLucero/generador-datos-mx/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/GerardoLucero/generador-datos-mx/actions/workflows/ci-cd.yml)
 
 ## Features
 
@@ -166,6 +163,13 @@ describe('Sistema de Registro', () => {
 - [mx-bancos](https://www.npmjs.com/package/mx-bancos) — Información de bancos
 - [validador-fiscal-mx](https://www.npmjs.com/package/validador-fiscal-mx) — Validación fiscal
 
+## Apoyo
+
+Proyecto de código abierto mantenido en mi tiempo libre. Si te fue útil y quieres agradecerlo:
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/gerardolucero)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/lucerorios0)
+
 ## Licencia
 
-MIT © [Gerardo Lucero](https://github.com/GerardoLucero)
+MIT © [Gerardo Lucero](https://github.com/GerardoLucero), ver [LICENSE](LICENSE).
