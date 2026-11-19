@@ -1,6 +1,6 @@
 {
   "name": "generador-datos-mx",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "type": "module",
   "description": "Generador de datos de prueba mexicanos realistas para testing y desarrollo",
   "main": "dist/index.js",
@@ -42,7 +42,7 @@
   ],
   "author": {
     "name": "Gerardo Lucero",
-    "email": "tu-email@ejemplo.com"
+    "email": "luceroriosg@gmail.com"
   },
   "license": "MIT",
   "repository": {
