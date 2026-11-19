@@ -278,7 +278,8 @@ describe('Generador de Datos Mexicanos', () => {
         apellidoPaterno: 'García'
       });
       
-      expect(email.email).toMatch(/juan/);
+      const permitidos = ['juan.garcia', 'juangarcia', 'jgarcia', 'juan_garcia', 'garcia.juan'];
+      expect(permitidos).toContain(email.usuario);
       expect(email.email).toMatch(/garcia/);
     });
     
